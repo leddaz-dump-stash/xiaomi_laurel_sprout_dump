@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200903.002 V12.0.22.0.RFQMIXM release-keys
+- manufacturer: 
+- platform: trinket
+- codename: laurel_sprout
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200903.002
+- incremental: V12.0.22.0.RFQMIXM
+- tags: release-keys
+- fingerprint: Xiaomi/laurel_sprout/laurel_sprout:11/RKQ1.200903.002/V12.0.22.0.RFQMIXM:user/release-keys
+- is_ab: true
+- brand: Xiaomi
+- branch: qssi-user-11-RKQ1.200903.002-V12.0.22.0.RFQMIXM-release-keys
+- repo: xiaomi_laurel_sprout_dump
